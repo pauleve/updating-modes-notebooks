@@ -1,0 +1,1 @@
+colomoto_jupyter==0.8.1
