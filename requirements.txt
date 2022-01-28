@@ -1,1 +1,2 @@
 colomoto_jupyter==0.8.1
+mpbn==1.6
