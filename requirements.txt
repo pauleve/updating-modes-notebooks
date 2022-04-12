@@ -1,2 +1,2 @@
-colomoto_jupyter==0.8.1
+colomoto_jupyter==0.8.3
 mpbn==1.6
