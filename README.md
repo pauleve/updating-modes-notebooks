@@ -1,5 +1,5 @@
 
-Supplementary material to the chapter "Boolean networks and their dynamics: the impact of updates" by Loïc Paulevé and Sylvain Sené (in press).
+Supplementary material to the chapter 6 "**Boolean networks and their dynamics: the impact of updates**" by [Loïc Paulevé](https://loicpauleve.name) and [Sylvain Sené](https://pageperso.lis-lab.fr/~sylvain.sene/) of the book "*Systems Biology Modelling and Analysis: Formal Bioinformatics Methods and Tools*" (First Edition), edited by Elisabetta De Maria (Wiley, 2023).
 
 These notebooks demonstate how to use the Python module
 [`colomoto.minibn`](https://github.com/colomoto/colomoto-jupyter) for computing
