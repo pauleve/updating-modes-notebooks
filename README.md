@@ -29,12 +29,12 @@ conda install -c conda-forge -c colomoto colomoto-jupyter
 
 ### Using the CoLoMoTo Docker image
 
-These notebooks can be executed within the [CoLoMoTo Docker distribution](https://colomoto.org/notebook) version `2021-10-21`:
+These notebooks can be executed within the [CoLoMoTo Docker distribution](https://colomoto.org/notebook) version `2022-07-01`:
 1. download the notebooks from  https://github.com/pauleve/updating-modes-notebooks/archive/main.zip and extract the zip file
 2. execute the following commands, where ``notebooks`` is the folder in which you extracted the notebooks
 ```sh
 sudo pip install -U colomoto-docker # you may have to use pip3 instead of pip
-colomoto-docker -V 2021-10-01 --bind notebooks
+colomoto-docker -V 2022-07-01 --bind notebooks
 ```
 
 ## Related documentation
